@@ -1,3 +1,7 @@
+# Archive of mrneo240's SM64 Ports
+
+Original Repo: https://github.com/mrneo240/sm64-port
+
 # About the Super Mario 64 Port
 
 - This repo contains a full decompilation of Super Mario 64 (Japan), (U), and (E) with minor exceptions in the audio subsystem.
