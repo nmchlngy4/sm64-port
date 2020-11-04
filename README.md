@@ -1,10 +1,6 @@
-# PSP Port of PC
+# About the Super Mario 64 Port
 
-PSP Project Discord: https://discord.gg/5w4B69
-
-# Super Mario 64 Port
-
-- This repo contains a full decompilation of Super Mario 64 (J), (U), and (E) with minor exceptions in the audio subsystem.
+- This repo contains a full decompilation of Super Mario 64 (Japan), (U), and (E) with minor exceptions in the audio subsystem.
 - Naming and documentation of the source code and data structures are in progress.
 - Efforts to decompile the Shindou ROM steadily advance toward a matching build.
 - Beyond Nintendo 64, it can also target Linux and Windows natively.
@@ -144,3 +140,6 @@ discuss what you would like to change.
 Run `clang-format` on your code to ensure it meets the project's coding standards.
 
 Official Discord: https://discord.gg/7bcNTPK
+
+## Why did you clone it here?
+Unfortunately, the original developer, mrneo240, has quit programming as he started to pursue other hobbies in life. Just in case he deletes his GitHub account, I have mirrored the repository on my GitHub.
